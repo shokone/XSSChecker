@@ -85,8 +85,8 @@ Add your own parameters, cookies, user-agent...
 
 # Browser
 By default check XSS by simple request and test with a browser (firefox or chrome) to verify that request opens a successful alert on the target.
-Firefox -> https://github.com/mozilla/geckodriver/releases
-Chrome  -> https://chromedriver.chromium.org/downloads
+- Firefox -> https://github.com/mozilla/geckodriver/releases
+- Chrome  -> https://chromedriver.chromium.org/downloads
 
 # Payloads
 The script uses 3 different payload levels
