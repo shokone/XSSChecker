@@ -1,0 +1,8 @@
+## Add text INJECTHERE to check that alert is opened succesfully
+
+## For example:
+
+<ScRipT>alert(INJECTHERE)</ScRipT>
+<script>alert(/INJECTHERE)</script>
+<script>alert(/INJECTHERE/)</script>
+</script><script>alert(INJECTHERE)</script>

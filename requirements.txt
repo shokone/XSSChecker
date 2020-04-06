@@ -1,0 +1,6 @@
+requests==2.22.0
+bs4==0.0.1
+termcolor==1.1.0
+selenium==3.141.0
+selenium-requests==1.3
+

