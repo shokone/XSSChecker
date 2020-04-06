@@ -90,9 +90,9 @@ By default check XSS by simple request and test with a browser (firefox or chrom
 
 # Payloads
 The script uses 3 different payload levels
-Level 1 - Basic XSS
-Level 2 - Basic XSS, body, img and div
-Level 3 - Basic XSS, body, img, div, svg and polyglot
+- Level 1 - Basic XSS
+- Level 2 - Basic XSS, body, img and div
+- Level 3 - Basic XSS, body, img, div, svg and polyglot
 
 If use your own payloads file, add text INJECTHERE to use with this tool.
 The script replaces the text INJECTHERE with an integer value or random string for confirmation.
