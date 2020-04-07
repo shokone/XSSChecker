@@ -39,7 +39,7 @@ def cmdArguments(argv=None):
 	# injection options
 	injection = parse.add_argument_group("Injection",
 		"These parameters can be used to specify custom payloads or another specific parameters to test.")
-	injection.add_argument("--payload", dest="payload", help="Custom payloads file. By default use data/payloads_lvl1.txt")
+	injection.add_argument("--payload", dest="payload", help="Custom payloads file.")
 
 	# custom options
 	customize = parse.add_argument_group("Customize", "Use this options to customize your testing")

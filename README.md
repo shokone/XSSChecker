@@ -42,7 +42,7 @@ Request:
                         Cookie header value.
   -p PARAMETER, --parameter PARAMETER
                         Type only one parameter name to check
-  -d DATA, --data DATA  Data string to be sent. If you don't specify, the
+  -d DATA, --data DATA  Data string to be sent. If you don\'t specify, the
                         script will search for possible forms. Example:
                         "username=admin&pass=admin"
   --user-agent USERAGENT
@@ -59,8 +59,7 @@ Injection:
   These parameters can be used to specify custom payloads or another
   specific parameters to test.
 
-  --payload PAYLOAD     Custom payloads file. By default use
-                        data/payloads_lvl1.txt
+  --payload PAYLOAD     Custom payloads file. 
 
 Customize:
   Use this options to customize your testing
