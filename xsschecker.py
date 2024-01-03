@@ -12,8 +12,9 @@ try:
 	from termcolor import colored
 	try:
 		# first check current python version
-		pyversion = sys.version.split()[0]
-		if pyversion < "3.7":
+		pyversion    = sys.version.split()[0]
+		splitversion = pyversion.split(".")
+		if splitversion[0] < "3" and splitversion[1] < "7":
 			raise Exception(colored(
 				"[Error] Incompatible Python version detected %s."
 				"\n[Error] To successfully run xsschecker you'll have to use version 3.7 or above."
